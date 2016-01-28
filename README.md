@@ -9,7 +9,7 @@ Task:
  Tietosäiliö luokkaan seuraavat metodit:  
 - Metodi, joka lisää InsuranceInfo-olion säiliöön.  
 - Metodi, joka tulostaa säiliön koko sisällön.  
-- Metodi, joka tulostaa tiedot kiinteistöistä, joiden hinta on parametrina annettua rajaa
+- Metodi, joka tulostaa tiedot kiinteistöistä, joiden vakuutusarvo on parametrina annettua rajaa
 suurempi. Myös vakuutusarvo on tulostettava.  
-- Metodi, joka tulostaa tiedot kiinteistöistä, joiden hinta on parametrina annettua rajaa
+- Metodi, joka tulostaa tiedot kiinteistöistä, joiden vakuutusarvo on parametrina annettua rajaa
 pienempi. Myös vakuutusarvo on tulostettava.  
